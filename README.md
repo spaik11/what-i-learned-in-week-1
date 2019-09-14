@@ -32,12 +32,22 @@ This was the highlight of the week for me. We learned the basics of HTML.
   * Attributes
   * Apply CSS
   * Include JS for functionality
+
 We learned how to use snippets in VSC. Colin's snippet for HTML would automatically setup the skeleton.
 
 ---
 ### Markdown Portfolio to HTML
-This exercise was challenging because we had to look up new tags we didn't learn to incorporate into our HTML portfolio. 
+This exercise was fun and challenging because we had to look up new tags we didn't learn to incorporate into our HTML portfolio. 
 * The Live Server extension is a "preview" of what the HTML page will look like
 * Created a text input box and button
 * How to link to an external site that opens in a new window/tab using the `_blank` tag
 * Adjusting an image's size by including the `<height>` `<width>`
+* The `<ul>` and `<ol>` tag will list items by bullets or numbers
+
+---
+### The Adventures of Link
+This was a Choose Your Own Adventure story. We had to create multiple HTML files and link them using the anchor `<a>` tag.
+* Creating a storyline that have different scenario's
+* Featured a go back button that linked to the previous HTML site so that the user doesn't have to start from the beginning
+
+The project workflow got more complex the further we got into the storyline.
